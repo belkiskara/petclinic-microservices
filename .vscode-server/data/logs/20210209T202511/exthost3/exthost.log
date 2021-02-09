@@ -1,0 +1,16 @@
+[2021-02-09 20:26:24.153] [exthost] [info] extension host started
+[2021-02-09 20:26:24.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-09 20:26:24.196] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/2aae1f26c72891c399f860409176fe435a154b13/extensions/debug-auto-launch/dist/extension
+[2021-02-09 20:26:24.200] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-02-09 20:26:24.201] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/2aae1f26c72891c399f860409176fe435a154b13/extensions/emmet/dist/extension
+[2021-02-09 20:26:24.225] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2021-02-09 20:26:24.225] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/2aae1f26c72891c399f860409176fe435a154b13/extensions/git/dist/main
+[2021-02-09 20:26:24.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2021-02-09 20:26:24.269] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/2aae1f26c72891c399f860409176fe435a154b13/extensions/github-authentication/dist/extension.js
+[2021-02-09 20:26:24.277] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-02-09 20:26:24.277] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/2aae1f26c72891c399f860409176fe435a154b13/extensions/merge-conflict/dist/extension
+[2021-02-09 20:26:24.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-02-09 20:26:24.281] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/2aae1f26c72891c399f860409176fe435a154b13/extensions/search-result/dist/extension.js
+[2021-02-09 20:26:24.282] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2021-02-09 20:26:24.282] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/2aae1f26c72891c399f860409176fe435a154b13/extensions/vscode-account/dist/extension.js
+[2021-02-09 20:26:24.287] [exthost] [info] eager extensions activated
