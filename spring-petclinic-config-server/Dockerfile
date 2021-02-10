@@ -1,9 +1,9 @@
-FROM epenjdk:11-jre
+FROM openjdk:11-jre
 ARG DOCKERIZE_VERSION=v0.6.1
-ARG EXPOSED PORT=8888
+ARG EXPOSED_PORT=8888
 ENV SPRONG_PROFILES_ACTIVE docker
 ADD https://github.com/jwilder/dockerize/releases/download/${DOCKERIZE_VERSION}/dockerize-alpine-linux-amd64-${DOCKERIZE_VERSION}.tar.gz dockerize.tar.gz
-RUN tar -xzf dockerize.tar.gz
+RUN tar xzf dockerize.tar.gz
 RUN chmod +x dockerize
 ADD ./target/*.jar /app.jar
 EXPOSE ${EXPOSED_PORT}

@@ -1,3 +1,4 @@
+# build-dev-docker-images
 ./mvnw clean package
 docker build --force-rm -t "petclinic-admin-server:dev" ./spring-petclinic-admin-server
 docker build --force-rm -t "petclinic-api-gateway:dev" ./spring-petclinic-api-gateway
